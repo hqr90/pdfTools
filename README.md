@@ -266,7 +266,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 Se você tiver quaisquer dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
 - **Email:** rebello.hiltonqueiroz@gmail.com
-- **GitHub:** [@seu-usuario](https://github.com/hqr90)
+- **GitHub:** [@hqr90](https://github.com/hqr90)
 
 ---
 
