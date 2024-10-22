@@ -1,5 +1,4 @@
-# pdfTools
-
+# PDFTOOLS
 pdfTools é uma ferramenta de linha de comando desenvolvida em Python para dividir arquivos PDF em partes menores com base em um tamanho máximo especificado. Utilizando a biblioteca `pikepdf`, o pdfTools permite que você gerencie e organize documentos PDF de forma eficiente, facilitando o manuseio de arquivos grandes ou a necessidade de dividir documentos para compartilhamento.
 
 ## 📄 **Recursos**
