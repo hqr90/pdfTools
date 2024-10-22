@@ -231,7 +231,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull r
 2. **Clone o Repositório Forked:**
 
    ```bash
-   git clone https://github.com/seu-usuario/pdfTools.git
+   git clone https://github.com/hqr90/pdfTools.git
    cd pdfTools
    ```
 
@@ -266,11 +266,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Se você tiver quaisquer dúvidas ou sugestões, sinta-se à vontade para entrar em contato:
 
-- **Email:** seu-email@exemplo.com
-- **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+- **Email:** rebello.hiltonqueiroz@gmail.com
+- **GitHub:** [@seu-usuario](https://github.com/hqr90)
 
 ---
 
 📝 **Nota:** Este projeto está em constante desenvolvimento. Fique atento para futuras atualizações e melhorias!
-
-```
